@@ -1,15 +1,3 @@
-name: Generate Snake
-
-on:
-schedule:
-- cron: "0 */12 * * *"
-
-workflow_dispatch:
-
-jobs:
-build:
-runs-on: ubuntu-latest
-
 steps:
   - name: Generate snake animation
     uses: Platane/snk/svg-only@v3
