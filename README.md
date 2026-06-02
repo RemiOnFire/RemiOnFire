@@ -1,6 +1,14 @@
 # 👋 Welcome to My Profile
 
-![Visitor Count](https://komarev.com/ghpvc/?username=RemiOnFire\&color=ff4500\&style=flat-square\&label=Profile+Views)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RemiOnFire&color=ff4500&style=flat-square&label=PROFILE+VIEWS" />
+</p>
+
+<h1 align="center">🔥 RemiOnFire 🔥</h1>
+
+<p align="center">
+Content Creator • Gaming • Motorsport • Tech
+</p>
 
 ---
 
@@ -8,50 +16,65 @@
 
 ```text
 🎮 Content Creator @ TikTok & Facebook
-🏎️ Motorsport Enjoyer — F1, Endurance, Nürburgring
-⚡ Gaming: Minecraft | Honkai: Star Rail | Limbus Company
-🎯 Niche: Gaming • Tech • Sim Racing
-🌏 Based in Indonesia
+🏎️ Motorsport Enthusiast — F1, Endurance, Nürburgring
+⚡ Games: Minecraft • Honkai Star Rail • Limbus Company
+🎯 Focus: Gaming • Tech • Sim Racing
+🌏 Indonesia
 ```
 
 ---
 
-## 🛠️ My Stack & Interests
+## 🛠️ Stack & Interests
 
-![Gaming](https://img.shields.io/badge/Gaming-Minecraft-62b047?style=flat-square\&logo=minecraft\&logoColor=white)
-![Sim Racing](https://img.shields.io/badge/Sim_Racing-Assetto_Corsa-FF4500?style=flat-square)
-![Honkai](https://img.shields.io/badge/Honkai-Star_Rail-5B4FCF?style=flat-square)
-![Motorsport](https://img.shields.io/badge/F1-2026_Season-e10600?style=flat-square\&logo=f1\&logoColor=white)
-![TikTok](https://img.shields.io/badge/TikTok-@RemiOnFire-black?style=flat-square\&logo=tiktok)
-![Indonesia](https://img.shields.io/badge/🇮🇩-Indonesia-CE1126?style=flat-square)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Minecraft-Gaming-62b047?style=for-the-badge&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/Assetto_Corsa-Sim_Racing-FF4500?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Honkai-Star_Rail-5B4FCF?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/F1-2026_Season-e10600?style=for-the-badge&logo=f1&logoColor=white" />
+<img src="https://img.shields.io/badge/TikTok-@RemiOnFire-black?style=for-the-badge&logo=tiktok" />
+<img src="https://img.shields.io/badge/Indonesia-CE1126?style=for-the-badge" />
+
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![RemiOnFire's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RemiOnFire\&show_icons=true\&theme=dark\&hide_border=true\&title_color=FF4500\&icon_color=FF4500\&text_color=ffffff\&bg_color=0d1117)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RemiOnFire&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff4500&icon_color=ff4500" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RemiOnFire\&layout=compact\&theme=dark\&hide_border=true\&title_color=FF4500\&text_color=ffffff\&bg_color=0d1117)
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemiOnFire&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff4500" />
+</p>
 
 ---
 
-## 🔥 Contribution Snake
+## 📈 Contribution Activity
 
-![Snake animation](https://raw.githubusercontent.com/RemiOnFire/RemiOnFire/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RemiOnFire&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=ff4500&line=ff4500&point=ffffff" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RemiOnFire/RemiOnFire/output/github-contribution-grid-snake-dark.svg" width="95%" />
+</p>
 
 ---
 
 ## 📌 Currently
 
-* 🎬 Creating content around **Gaming & Motorsport**
-* 🏁 Following **2026 F1 Season** closely
-* 🎮 Playing **Neverness to Everness** & **Minecraft**
-* 📖 Learning more about **tech & sim racing**
+* 🎬 Creating content around Gaming & Motorsport
+* 🏁 Following the 2026 F1 Season closely
+* 🎮 Playing Neverness to Everness & Minecraft
+* 📖 Learning more about tech & sim racing
 
 ---
 
-<div align="center">
-
-⚡ **"Always On Fire"** ⚡
-
-</div>
+<h3 align="center">⚡ ALWAYS ON FIRE ⚡</h3>
